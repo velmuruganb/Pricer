@@ -1,1 +1,1 @@
-Pricing application
+Pricing application!
